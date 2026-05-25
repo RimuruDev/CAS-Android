@@ -1,11 +1,15 @@
 ## PubMatic Android Mediation Adapter Changelog
 ```kotlin
-implementation("com.cleveradssolutions:pubmatic:5.1.1.0")
+implementation("com.cleveradssolutions:pubmatic:5.1.2.0")
 ```
 Required repository:
 ```kotlin
 maven { url = uri("https://repo.pubmatic.com/artifactory/public-repos") }
 ```
+
+### 5.1.2.0
+- Certified with PubMatic - 5.1.2
+- Added support Video in Native Ads.
 
 ### 5.1.1.0
 - Certified with PubMatic - 5.1.1

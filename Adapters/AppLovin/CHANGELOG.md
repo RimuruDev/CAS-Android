@@ -1,7 +1,10 @@
 ## AppLovin Android Mediation Adapter Changelog
 ```kotlin
-implementation("com.cleveradssolutions:applovin:13.6.2.1")
+implementation("com.cleveradssolutions:applovin:13.6.2.2")
 ```
+
+### 13.6.2.2
+- Reverted "Optimized Native Ads rendering" due to a regression in ad click handling.
 
 ### 13.6.2.1
 - Optimized Native Ads rendering.

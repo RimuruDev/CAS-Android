@@ -1,7 +1,10 @@
 ## Cross Promo Android Mediation Adapter Changelog
 ```kotlin
-implementation("com.cleveradssolutions:cas-promo:4.0.2")
+implementation("com.cleveradssolutions:cas-promo:4.7.1")
 ```
+
+### 4.7.1
+- Improved load error detection.
 
 ### 4.0.2
 

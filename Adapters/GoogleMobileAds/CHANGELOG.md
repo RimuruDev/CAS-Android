@@ -1,7 +1,10 @@
 ## Google Ads Android Mediation Adapter Changelog
 ```kotlin
-implementation("com.cleveradssolutions:google:25.2.0.1")
+implementation("com.cleveradssolutions:google:25.2.0.2")
 ```
+
+### 25.2.0.2
+- Minor improvements for native ads.
 
 ### 25.2.0.1
 - Compatibility improvements for CAS 4.7.0.
