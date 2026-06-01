@@ -1,7 +1,11 @@
 ## IronSource Android Mediation Adapter Changelog
 ```kotlin
-implementation("com.cleveradssolutions:ironsource:9.4.2.0")
+implementation("com.cleveradssolutions:ironsource:9.4.3.0")
 ```
+
+### 9.4.3.0
+- Certified with Iron Source - 9.4.3
+- Compatibility improvements for CAS 4.7.3.
 
 ### 9.4.2.0
 - Certified with Iron Source - 9.4.2

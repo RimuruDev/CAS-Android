@@ -1,7 +1,10 @@
 ## Yango Ads Android Mediation Adapter Changelog
 ```kotlin
-implementation("com.cleveradssolutions:yango:7.18.5.1")
+implementation("com.cleveradssolutions:yango:8.1.0.0")
 ``` 
+
+### 8.1.0.0
+- Certified with Yango Ads - 8.1.0
 
 ### 7.18.5.1
 - Added support for the `dark_mode` parameter. (Closed beta)
