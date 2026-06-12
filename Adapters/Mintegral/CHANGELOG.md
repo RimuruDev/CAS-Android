@@ -1,11 +1,14 @@
 ## Mintegral Android Mediation Adapter Changelog
 ```kotlin
-implementation("com.cleveradssolutions:mintegral:17.1.61.1")
+implementation("com.cleveradssolutions:mintegral:17.1.61.2")
 ```  
 Required repository:
 ```kotlin
 maven { url = uri("https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea") }
 ```
+
+### 17.1.61.2
+- Compatibility improvements for CAS 4.7.4.
 
 ### 17.1.61.1
 - Compatibility improvements for CAS 4.7.3.
